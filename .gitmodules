@@ -1,0 +1,4 @@
+[submodule "neoplonk/public"]
+	path = neoplonk/public
+	url = https://github.com/neogomo/neogomo.github.io.git
+	branch = main
