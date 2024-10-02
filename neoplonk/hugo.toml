@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'neoplonk blog'
 theme = 'hugo-theme-console'
 
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false

@@ -1,11 +1,25 @@
 +++
+image = "about-me-mb-art.jpg"
 date = "2016-11-05T21:05:33+05:30"
 title = "About"
 +++
 
-A minimal, responsive and light theme for Hugo inspired by Linux console. 
+{{< comment >}} A minimal, responsive and light theme for Hugo inspired by Linux console. {{< /comment >}}
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
+I’m a photographer and this is my little corner inside the vast interweb.
+
+{{< comment >}} ![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true) {{< /comment >}}
+
+
+<div><img src="about-me-mb-art.jpg" style="margin: 0 0 2em; float: left; width:380px; height:auto; border:0" width="380" height="380"></div>
+
+
+
+{{< comment >}} this is a comment {{< /comment >}}
+
+
+
+
 
 ## Installation
 
